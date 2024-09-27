@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Say Yes To Heaven",
+    "artist": "Lana Del Rey",
+    "duration": "3:29",
+    "image": "/albums/say-yes-to-heaven.png"
+  },
+  {
+    "id": 2,
+    "title": "Young And Beautiful",
+    "artist": "Lana Del Rey",
+    "duration": "3:56",
+    "image": "/albums/young-and-beautiful.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Summertime Sadness",
+    "artist": "Lana Del Rey",
+    "duration": "4:25",
+    "image": "/albums/born-to-die.webp"
+  },
+  {
+    "id": 4,
+    "title": "West Coast",
+    "artist": "Lana Del Rey",
+    "duration": "4:17",
+    "image": "/albums/ultraviolence.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cinnamon Girl",
+    "artist": "Lana Del Rey",
+    "duration": "5:01",
+    "image": "/albums/nfr.jpg"
+  },
+  {
+    "id": 6,
+    "title": "White Mustang",
+    "artist": "Lana Del Rey",
+    "duration": "2:45",
+    "image": "/albums/lust-for-life.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Brooklyn Baby",
+    "artist": "Lana Del Rey",
+    "duration": "5:52",
+    "image": "/albums/ultraviolence.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Doin'Time",
+    "artist": "Lana Del Rey",
+    "duration": "3:22",
+    "image": "/albums/nfr.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Cherry",
+    "artist": "Lana Del Rey",
+    "duration": "3:01",
+    "image": "/albums/lust-for-life.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Born To Die",
+    "artist": "Lana Del Rey",
+    "duration": "4:45",
+    "image": "/albums/born-to-die.webp"
+  }
+]
